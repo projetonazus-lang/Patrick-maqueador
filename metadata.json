@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Helena Prado | Maquiagem Profissional",
+  "description": "Landing page premium para Maquiadora Profissional. Especialista em Noivas, Formandas, Maquiagem Social e Produções de Luxo com agendamento direto pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
