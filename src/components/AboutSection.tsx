@@ -40,7 +40,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenBookingModal }
             <div className="relative w-full max-w-md aspect-[3/4] rounded-t-[12rem] rounded-b-3xl overflow-hidden border-2 border-white shadow-2xl bg-[#EDE6E2]">
               <img
                 src={ARTIST_IMAGE}
-                alt="Patrick Oliveira Alcântara - Maquiador Profissional em Campo Grande MS"
+                alt="Patrick Alcântara - Maquiador Profissional em Campo Grande MS"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-top"
               />
