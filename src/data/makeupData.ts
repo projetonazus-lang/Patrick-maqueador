@@ -10,13 +10,13 @@ export const STUDIO_CITY = 'Campo Grande - MS';
 export const GOOGLE_RATING = 5.0;
 export const GOOGLE_REVIEW_COUNT = 7;
 
-export const HERO_IMAGE = '/src/assets/images/hero_glamour_makeup_1793794428232.jpg';
+export const HERO_IMAGE = '/assets/images/hero_glamour_makeup_1793794428232.jpg';
 export const BRIDAL_IMAGE = '/assets/aistudio/image_7306326b.png';
 export const FESTA_IMAGE = '/assets/aistudio/image_b4ef05cc.png';
 export const ARTIST_IMAGE = '/assets/aistudio/image_f5b00a23.png';
 export const SOCIAL_IMAGE = '/assets/aistudio/image_4e78258d.png';
-export const NATURAL_GLOW_IMAGE = '/src/assets/images/portfolio_natural_glow_1793794448608.jpg';
-export const FORMANDA_IMAGE = '/src/assets/images/portfolio_formanda_glam_1793794448482.jpg';
+export const NATURAL_GLOW_IMAGE = '/assets/images/portfolio_natural_glow_1793794448608.jpg';
+export const FORMANDA_IMAGE = '/assets/images/portfolio_formanda_glam_1793794448482.jpg';
 
 export const SERVICES_DATA: ServiceItem[] = [
   {
